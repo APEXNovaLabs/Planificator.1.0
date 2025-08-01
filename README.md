@@ -16,7 +16,7 @@
 - **Techno:** KivyMD
 - **Based Language:** Python (Version 3.13.x)
 - **Database**: MySQL
-- **Database Script:** [Planificator's database](https://github.com/josoavj/dbPlanificator)
+- **Database Script:** [Planificator's database](https://github.com/APEXNovaLabs/databasePlanificator)
 
 ## ✨ Fonctionnalités
 
